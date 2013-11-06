@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AWS S3 Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_cred">select AWS credential</string>
+    <string name="bucket">Bucket</string>
+    <string name="create_Bucket">Create</string>
+
+</resources>
