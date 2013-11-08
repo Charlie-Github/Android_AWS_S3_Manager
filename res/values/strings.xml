@@ -7,5 +7,7 @@
     <string name="add_cred">select AWS credential</string>
     <string name="bucket">Bucket</string>
     <string name="create_Bucket">Create</string>
+    <string name="string_bucket_list">Bucket List</string>
+    <string name="bucket_name_hint">Input a new bucket name here</string>
 
 </resources>

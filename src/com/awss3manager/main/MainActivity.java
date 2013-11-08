@@ -52,10 +52,12 @@ public class MainActivity extends Activity {
 	    }		
 	}
 	
-	protected void bucketOperation(){
+	public void bucketOperation(View view){
 		Intent bucketIntent = new Intent(this, BucketActivity.class);
 		bucketIntent.putExtra(CRED_PATH, credPath);
 		startActivity(bucketIntent);
+
+
 		
 	}
 	@Override
